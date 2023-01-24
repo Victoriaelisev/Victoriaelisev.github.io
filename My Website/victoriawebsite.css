@@ -1,0 +1,135 @@
+victoriawebsite.css
+body {
+    margin: 0;
+    line-height: normal;
+    position: center;
+ 
+  }
+  .parent {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  .image1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .center {
+      display: block;
+      margin-left:auto;
+      margin-right: auto;
+      width: 30%;
+    
+  }
+  .image2 {
+    position: absolute;
+   top: 1000px;
+   left: 106px;
+ 
+  }
+  .image3 {
+    position: absolute;
+    top: 1000px;
+    right: 106px;
+  }
+  .image4{
+    position: absolute;
+    top: 250px;
+    right: 750px;
+    
+  }
+  .image5{
+    position: absolute;
+    top:750px;
+    right:450px;
+  }
+  .image6{
+    position: absolute;
+    top: 750px;
+    right:250px;
+  }
+  .image7{
+    position: absolute;
+    top:825px;
+    right:255px;
+  }
+  .image8{
+    position: absolute;
+    top:825px;
+    right: 320px;
+  }
+  .image9{
+    position:absolute;
+    top:340px;
+    right: 250px;
+  }
+  .image10{
+    position: absolute;
+    top: 498px;
+    right: 250px;
+  }
+  .image11{
+  position: absolute;
+  top:370px;
+  right:455px;
+  }
+  .image12{
+    position: absolute;
+    top:110px;
+    right: 720px;
+  }
+  .image13{
+    position: absolute;
+    top:25px;
+    right: 1070px;
+  }
+  .image14{
+    position: absolute;
+    top:120px;
+    right:1270px;
+  }  
+  .image15{
+    position: absolute;
+    top:250px;
+    left: 280px;
+  }
+  .image16{
+    position: absolute;
+    top: 370px;
+    left:310px;
+  }
+  .image17{
+    position: absolute;
+    top:370px;
+    left: 480px;
+  }
+  .image18{
+    position: absolute;
+    top:530px;
+    left: 310px;
+  }
+  .image19{
+    position: absolute;
+    top:530px;
+    left:480px;
+  }
+  .image20{
+    position: absolute;
+    top: 620px;
+    left:520px;
+  }
+.resp-container {
+    position: relative;
+    overflow: hidden;
+    padding-top: 56.25%;
+
+  }
+  .resp-iframe {
+    position: absolute;
+    top: 465px;
+    left: 950px;
+    width: 30%;
+    height: 30%;
+    border: 0;
+}
