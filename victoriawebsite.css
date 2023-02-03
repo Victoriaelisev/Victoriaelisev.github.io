@@ -33,7 +33,7 @@ body {
   }
   .image4{
     position: absolute;
-    top: 250px;
+    top: 0px; //250
     right: 750px;
     
   }
