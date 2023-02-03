@@ -3,7 +3,6 @@ body {
     margin: 0;
     line-height: normal;
     position: center;
- 
   }
   .parent {
     position: relative;
@@ -20,7 +19,6 @@ body {
       margin-left:auto;
       margin-right: auto;
       width: 30%;
-    
   }
   .image2 {
     position: absolute;
