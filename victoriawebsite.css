@@ -37,27 +37,27 @@ body {
   }
   .image5{
     position: absolute;
-    top:750px;
-    right:450px;
+    top: 750px;
+    right: 450px;
   }
   .image6{
     position: absolute;
     top: 750px;
-    right:250px;
+    right: 250px;
   }
   .image7{
     position: absolute;
-    top:825px;
-    right:255px;
+    top: 825px;
+    right: 255px;
   }
   .image8{
     position: absolute;
-    top:825px;
+    top: 825px;
     right: 320px;
   }
   .image9{
     position:absolute;
-    top:340px;
+    top: 340px;
     right: 250px;
   }
   .image10{
@@ -67,33 +67,33 @@ body {
   }
   .image11{
   position: absolute;
-  top:370px;
-  right:455px;
+  top: 370px;
+  right: 455px;
   }
   .image12{
     position: absolute;
-    top:110px;
+    top: 110px;
     right: 720px;
   }
   .image13{
     position: absolute;
-    top:25px;
+    top: 25px;
     right: 1070px;
   }
   .image14{
     position: absolute;
-    top:120px;
-    right:1270px;
+    top: 120px;
+    right: 1270px;
   }  
   .image15{
     position: absolute;
-    top:250px;
+    top: 250px;
     left: 280px;
   }
   .image16{
     position: absolute;
     top: 370px;
-    left:310px;
+    left: 310px;
   }
   .image17{
     position: absolute;
@@ -102,18 +102,18 @@ body {
   }
   .image18{
     position: absolute;
-    top:530px;
+    top: 530px;
     left: 310px;
   }
   .image19{
     position: absolute;
-    top:530px;
-    left:480px;
+    top: 530px;
+    left: 480px;
   }
   .image20{
     position: absolute;
     top: 620px;
-    left:520px;
+    left: 520px;
   }
 .resp-container {
     position: relative;
