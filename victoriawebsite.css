@@ -10,7 +10,7 @@ body {
     left: 0;
   }
   .image1 {
-    position: relative;
+    position: absolute;
     top: 0;
     left: 0;
   }
@@ -22,9 +22,8 @@ body {
   }
   .image2 {
     position: absolute;
-   top: 1000px;
-   left: 106px;
- 
+    top: 1000px;
+    left: 106px;
   }
   .image3 {
     position: absolute;
@@ -33,9 +32,8 @@ body {
   }
   .image4{
     position: absolute;
-    top: 0px; //250
+    top: 250px; 
     right: 750px;
-    
   }
   .image5{
     position: absolute;
@@ -121,7 +119,6 @@ body {
     position: relative;
     overflow: hidden;
     padding-top: 56.25%;
-
   }
   .resp-iframe {
     position: absolute;
